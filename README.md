@@ -1,7 +1,18 @@
-### Hi there 👋
+<h2 align="center"> Hey there! Welcome to my GitHub profile! 👋 </h2>
+<h3 align="center"> I'm Edelmiro, an enthusiastic Front-end developer from Argentina :earth_americas: </h3>
+<h4 align="center"> sdjkajdkasjd </h4>
 
-<!--
-**EdelmiroAnton/EdelmiroAnton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a href="(https://github.com/EdelmiroAnton/github-readme-stats"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdelmiroAnton&layout=compact" />
+</a>
+
+
+#### Trying to catch all the new technologies and tools the IT World offer to us 
+
+
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
