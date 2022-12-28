@@ -1,9 +1,7 @@
-<h2 align="center"> Hey there! Welcome to my GitHub profile! 👋 </h2>
-<h3 align="center"> I'm Edelmiro, a Front-end developer from Argentina :earth_americas: </h3>
-
-<hr>
+<h2 align="left"> Hey there! Welcome to my GitHub profile! 👋 </h2>
+<h3 align="left"> 💻 I'm Edelmiro, a Front-end developer from Argentina :earth_americas: </h3>
 <div align="center">
-<h3 align="center"> Tools and Technologies </h3>
+<h4 align="left"> Tools and Technologies </h3>
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -27,7 +25,7 @@
 <hr>
 
 <div align="center">
-  <h3 align="center"> Keep in touch!  </h3>
+  <h4 align="center"> Keep in touch!  </h3>
   <a  href="https://www.linkedin.com/in/edelmiro-anton/"  >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
